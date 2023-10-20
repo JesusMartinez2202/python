@@ -1,3 +1,5 @@
+# Programa elabroado por Kevin Jesus Martinez Martinez
+
 def palindromo(texto):
     #Convertimos a minúsculas y eliminamos espacios
     texto = texto.replace(" ", "").lower()

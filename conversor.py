@@ -1,3 +1,5 @@
+# Programa elaborado por Kevin Jesus Martinez Martinez
+
 def options():
     print("Menú",
           "\n1. Transformar una frase o texto a minúsculas o mayúsculas",
